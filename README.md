@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 | <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats-3taejab4b-MaryShust.vercel.app/api?username=MaryShust&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&private=true&hide_border=true" alt="All Stats" /> | <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats-3taejab4b-MaryShust.vercel.app/api/top-langs/?username=MaryShust&layout=compact&langs_count=6&hide_border=true" alt="Top Langs" /> |
 | ------------- | ------------- |
 
-![Profile views](https://komarev.com/ghpvc/?username=MaryShust&style=flat-square&abbreviated=true&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
 
