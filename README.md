@@ -16,10 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15"/> View my stats on Github</h3>
-
-| <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats-3taejab4b-MaryShust.vercel.app/api?username=MaryShust&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&private=true&hide_border=true" alt="All Stats" /> | <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats-3taejab4b-MaryShust.vercel.app/api/top-langs/?username=MaryShust&layout=compact&langs_count=6&hide_border=true" alt="Top Langs" /> |
-| ------------- | ------------- |
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
 
